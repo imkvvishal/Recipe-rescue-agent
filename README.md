@@ -22,8 +22,8 @@ Tech Stack
 
 AI Agents
 
-Instruction Agent – Generates cooking steps
-Allergy Agent – Detects allergens and suggests alternatives
-Nutrition Agent – Provides nutritional insights
-Waste Reduction Agent – Minimizes food wastage
+* Instruction Agent – Generates cooking steps
+* Allergy Agent – Detects allergens and suggests alternatives
+* Nutrition Agent – Provides nutritional insights
+* Waste Reduction Agent – Minimizes food wastage
 
