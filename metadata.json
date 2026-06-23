@@ -1,0 +1,6 @@
+{
+  "name": "RecipeRescue",
+  "description": "An interactive multi-agent kitchen assistant that matches available ingredients to recipes, verifies allergy security, and advises on nutrition using server-side Gemini intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
