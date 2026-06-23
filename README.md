@@ -13,12 +13,12 @@ Features
 
 Tech Stack
 
-  React.js
-  TypeScript
-  Vite
-  Node.js
-  Express.js
-  Google Gemini AI
+* React.js
+* TypeScript
+* Vite
+* Node.js
+* Express.js
+* Google Gemini AI
 
 AI Agents
 
